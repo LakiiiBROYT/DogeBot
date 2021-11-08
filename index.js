@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "916909137213"; 
-owner = "916909137213"; 
-fakeyoi = "Xeon"; 
+targetpc = "94768353051"; 
+owner = "94768353051"; 
+fakeyoi = "🤍Lakiya🤍"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -6187,7 +6187,7 @@ xeon.sendMessage(from, stdout, text, term)
     } else {
       console.log(
         color("[Doge Bot]", "red"),
-        "𝐃𝐨𝐠𝐞 𝐁𝐨𝐭",
+        "𝗟𝗮𝗸𝗶𝗶𝗶𝗶 𝐁𝐨𝐭",
         color(sender.split("@")[0])
       );
     }
